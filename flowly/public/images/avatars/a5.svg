@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><rect width='120' height='120' rx='60' fill='#E5DBFF'/>
+<clipPath id='c'><rect width='120' height='120' rx='60'/></clipPath><g clip-path='url(#c)'>
+<path d='M18 124c4-26 22-36 42-36s38 10 42 36z' fill='#7048E8'/><rect x='52' y='72' width='16' height='20' rx='6' fill='#C68642'/>
+<ellipse cx='60' cy='58' rx='22' ry='25' fill='#C68642'/><path d='M33 55c-1-18 11-29 27-29s29 10 27 29c-4-7-9-11-14-12-8 4-22 5-40 12z' fill='#2B1A0E'/>
+<circle cx='52' cy='60' r='2.4' fill='#172033'/><circle cx='68' cy='60' r='2.4' fill='#172033'/>
+<path d='M53 70q7 6 14 0' stroke='#172033' stroke-width='2.4' fill='none' stroke-linecap='round'/>
+<circle cx='47' cy='67' r='3.5' fill='#FF8787' opacity='.35'/><circle cx='73' cy='67' r='3.5' fill='#FF8787' opacity='.35'/></g></svg>
